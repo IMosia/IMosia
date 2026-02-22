@@ -12,10 +12,6 @@ Whatever brings you here, I hope you find something useful — and enjoy your st
 
 This one may be interesting for anyone who is starting to learn Data Science or a related field as a basis for real-life applications.  
 
-### [Educational projects](https://github.com/IMosia/educational_projects)
-
-This is a collection of various DA and DS projects I've done during my studies.  
-
 ## Get in Touch 📬
 - [**LinkedIn**](https://www.linkedin.com/in/ivan-mosiagin/)
 - [**Kaggle**](https://www.kaggle.com/ivanmosiagin)
